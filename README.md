@@ -245,3 +245,7 @@ Created by 2-3 beginner students for university project.
 ## License
 
 Educational project - Free to use and modify.
+
+
+<img width="412" height="860" alt="image" src="https://github.com/user-attachments/assets/2d61bd7f-38c9-464e-ad12-7d7b4f1a27c4" />
+
