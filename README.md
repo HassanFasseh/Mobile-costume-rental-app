@@ -248,4 +248,16 @@ Educational project - Free to use and modify.
 
 
 <img width="412" height="860" alt="image" src="https://github.com/user-attachments/assets/2d61bd7f-38c9-464e-ad12-7d7b4f1a27c4" />
+<img width="417" height="855" alt="image" src="https://github.com/user-attachments/assets/0035f5a3-20a2-48b5-8f49-73fe372d2693" />
+<img width="420" height="861" alt="image" src="https://github.com/user-attachments/assets/5cf7d96b-d89e-4b71-90e7-102996628020" />
+<img width="414" height="857" alt="image" src="https://github.com/user-attachments/assets/37fea462-b49f-4356-b837-4010a3990884" />
+<img width="424" height="857" alt="image" src="https://github.com/user-attachments/assets/9a33b393-c830-4caf-ab53-9e31356c74d0" />
+<img width="411" height="861" alt="image" src="https://github.com/user-attachments/assets/f9aa565d-5b5e-49fd-b243-75f606475a08" />
+<img width="410" height="852" alt="image" src="https://github.com/user-attachments/assets/86e1b0f3-7f53-45d5-a6c6-0d4db806db76" />
+
+
+
+
+
+
 
