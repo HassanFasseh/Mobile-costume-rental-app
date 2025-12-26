@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Costume Rental</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="costumes">Costumes</string>
+    <string name="add_costume">Add Costume</string>
+    <string name="delete">Delete</string>
+    <string name="reserve">Reserve</string>
+    <string name="my_reservations">My Reservations</string>
+    <string name="all_reservations">All Reservations</string>
+    <string name="costume_name">Costume Name</string>
+    <string name="size">Size</string>
+    <string name="price">Price</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
